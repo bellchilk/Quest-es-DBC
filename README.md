@@ -13,7 +13,7 @@
   <li><b>questao5.js</b>: Conversão de idade expressa em anos, meses e dias para total de dias.</li>
   <li><b>questao6.js</b>: Soma de uma lista predefinida de números representando recursos essenciais.</li>
   <li><b>questao7.js</b>: Identificação de um aluno em uma lista a partir de um índice fornecido.</li>
-  <li><b>questao8.js</b>: Manipulação de frases com palavras repetidas (em desenvolvimento).</li>
+  <li><b>questao8.js</b>: Manipulação de frases com palavras repetidas.</li>
   <li><b>questao9.js</b>: Contagem de ocorrências do dígito 1 em números até N.</li>
   <li><b>questao10.js</b>: Cálculo da Distância de Levenshtein entre strings.</li>
 </ul>
